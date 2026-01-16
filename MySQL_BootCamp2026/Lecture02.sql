@@ -1,4 +1,11 @@
 /*
+Lecture 02: Inserting Data into Tables in MySQL
+Objective: Learn various methods to insert data into MySQL tables effectively.
+Author : Chandan Chaudhari
+*/
+
+
+/*
 ==================== INSERTING DATA INTO TABLES ====================
 
 1. INSERT SINGLE ROW

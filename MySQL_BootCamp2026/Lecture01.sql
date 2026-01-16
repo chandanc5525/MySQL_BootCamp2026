@@ -1,4 +1,10 @@
 /*
+Lecture 01: Database Design Principles & Creating Tables in MySQL
+Objective: Understand best practices for database design and create tables in MySQL.
+Author : Chandan Chaudhari
+*/
+
+/*
 ==================== DATABASE DESIGN PRINCIPLES ====================
 1. Understand Business Requirements
    → Identify entities, attributes, and relationships clearly
