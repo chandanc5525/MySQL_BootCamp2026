@@ -52,8 +52,6 @@
 ===================================================================
 */
 
-
-
 -- Create Database
 CREATE DATABASE IF NOT EXISTS SQLBootCamp;
 
@@ -234,7 +232,5 @@ CORPORATE SCENARIO QUESTIONS
 26. Who should have permission to drop databases or tables?
 27. Why is documentation (comments) mandatory in corporate SQL projects?
 28. What is the risk of poor database design in real projects?
-====================================================================
-END OF QUESTIONS – BASED ON TODAY’S SESSION
 ====================================================================
 */
