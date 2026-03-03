@@ -18,6 +18,8 @@
 
 ---
 
+![alt text](MySQL.png)
+
 ## About This Repository
 
 **MySQL_BootCamp2026** is a **comprehensive, industry-oriented MySQL learning repository** designed to take learners from **absolute basics to expert-level SQL proficiency**.
